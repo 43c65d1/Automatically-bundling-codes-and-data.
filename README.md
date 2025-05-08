@@ -30,3 +30,4 @@ I'm just want to do somthing at my coding life.
         └── test1.out
 ```
 
+新增功能：启动时加入参数 "-s" 可以多打包一个 "spc.cpp" 进 std/
